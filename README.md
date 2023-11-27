@@ -1,3 +1,2 @@
 # Proiect
-Acest proiect/cod recunoaste, pana in momentul de fata, ce contine o placuta de inmatriculare dupa patternurile corespunzatoare Romaniei.
-In urmatoarele etape urmeaza sa imbin proiectul cu un cod care sa recunoasca placuta de inmatriculare din imagini/video-uri.
+Acest proiect/cod recunoaște, până în momentul de față, ce conține o plăcuță de înmatriculare după patternurile corespunzătoare României. În următoarele etape urmează să îmbin proiectul cu un cod care să recunoască plăcuța de înmatriculare din imagini/video-uri.
